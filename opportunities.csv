@@ -1,0 +1,74 @@
+ opportunity_id,nonprofit_id,opportunity_name,opportunity_description,opportunity_date
+OPP001,1001,Community Engagement Fellow,Community Outreach,6/18/2022
+OPP002,1001,Workshop Logistics Assistant,Program Support,3/8/2021
+OPP003,2002,Youth Program Mentor,Mentorship,7/14/2021
+OPP004,2002,Grant Research Volunteer,Volunteer Service,7/24/2024
+OPP005,2002,Events Assistant,Program Support,9/10/2021
+OPP006,3003,Urban Garden Coordinator,Coordination,8/2/2022
+OPP007,3003,Compost Educator,Education,6/29/2020
+OPP008,4004,Art Therapy Assistant,Program Support,3/12/2021
+OPP009,4004,Mobile Outreach Volunteer,Volunteer Service,8/31/2020
+OPP010,5005,After-School Tutor,Mentorship,1/27/2021
+OPP011,5005,Volunteer Recruitment Liaison,Volunteer Service,7/20/2020
+OPP012,6006,Media Archive Volunteer,Volunteer Service,2/18/2021
+OPP013,6006,Local Story Collector,Story Collection,2/21/2020
+OPP014,7007,Digital Literacy Coach,Education,7/28/2025
+OPP015,7007,Curriculum Review Volunteer,Volunteer Service,4/28/2022
+OPP016,8008,College Application Mentor,Mentorship,10/14/2021
+OPP017,8008,Youth Ambassador,Community Outreach,3/6/2025
+OPP018,9009,Donation Intake Organizer,Coordination,4/22/2025
+OPP019,9009,Care Package Assembler,Community Outreach,9/6/2021
+OPP020,1010,Early Literacy Tutor,Mentorship,4/14/2025
+OPP021,1010,Family Engagement Volunteer,Volunteer Service,7/6/2020
+OPP022,1010,Reading Circle Facilitator,Education,9/26/2023
+OPP023,1111,Youth Art Mentor,Mentorship,4/21/2022
+OPP024,1111,Exhibit Setup Volunteer,Volunteer Service,4/19/2023
+OPP025,1212,Herbal Garden Steward,Community Outreach,1/11/2025
+OPP026,1212,Workshop Note Taker,Content Review,7/21/2021
+OPP027,1313,Technology Lending Librarian,Resource Access,12/18/2023
+OPP028,1313,Call Center Support,Community Support,2/25/2023
+OPP029,1414,Financial Literacy Facilitator,Education,7/17/2023
+OPP030,1414,Youth Career Panelist,Community Outreach,9/30/2024
+OPP031,1515,Oral History Interviewer,Story Collection,4/27/2022
+OPP032,1515,Podcast Editing Volunteer,Volunteer Service,11/18/2025
+OPP033,1616,Family Liaison,Community Support,12/29/2021
+OPP034,1616,Wellness Workshop Host,Event Leadership,4/7/2021
+OPP035,1717,Community Potluck Planner,Event Leadership,5/4/2022
+OPP036,1717,Intergenerational Program Lead,Community Outreach,10/29/2020
+OPP037,1818,Textile Arts Volunteer,Volunteer Service,11/8/2021
+OPP038,1818,Repair Café Assistant,Program Support,11/26/2022
+OPP039,1919,Writing Mentor,Mentorship,11/8/2023
+OPP040,1919,Newsletter Designer,Content Creation,7/9/2020
+OPP041,2020,Crisis Resource Assistant,Program Support,9/14/2024
+OPP042,2020,Meal Distribution Coordinator,Coordination,1/5/2025
+OPP043,2121,Eco Club Mentor,Mentorship,4/14/2021
+OPP044,2121,Community Mapping Volunteer,Volunteer Service,7/1/2022
+OPP045,2222,Urban Farming Assistant,Program Support,6/30/2024
+OPP046,2222,Harvest Day Organizer,Coordination,12/15/2021
+OPP047,2323,Legal Aid Intake Volunteer,Volunteer Service,9/18/2025
+OPP048,2323,Tenant Rights Educator,Education,2/4/2023
+OPP049,2424,Conflict Mediation Helper,Community Outreach,6/9/2021
+OPP050,2424,Block Party Volunteer,Volunteer Service,2/5/2025
+OPP051,2525,ESL Class Assistant,Program Support,11/27/2022
+OPP052,2525,Citizenship Test Tutor,Mentorship,4/2/2020
+OPP053,2626,Art Supplies Curator,Content Creation,9/5/2025
+OPP054,2626,Youth Art Camp Volunteer,Volunteer Service,4/28/2024
+OPP055,2727,Digital Resource Curator,Content Creation,4/19/2021
+OPP056,2727,Seniors Tech Coach,Education,6/9/2021
+OPP057,2828,Language Exchange Partner,Community Outreach,6/22/2023
+OPP058,2828,Cultural Night Volunteer,Volunteer Service,12/5/2020
+OPP059,2929,STEM Workshop Assistant,Program Support,12/10/2024
+OPP060,2929,Data Entry Support,Community Support,11/11/2023
+OPP061,3030,Peer Mediation Guide,Community Outreach,4/14/2020
+OPP062,3030,Restorative Circle Note Taker,Content Review,6/5/2022
+OPP063,3131,Trail Clean-up Crew,Environmental Work,12/29/2020
+OPP064,3131,Native Plant Tagger,Environmental Work,2/4/2023
+OPP065,3232,Homework Club Volunteer,Volunteer Service,3/24/2025
+OPP066,3232,College Essay Reviewer,Content Review,7/25/2025
+OPP067,3333,Wellness Check Caller,Community Support,5/14/2020
+OPP068,3333,Community Census Helper,Community Outreach,6/2/2024
+OPP069,3434,Seed Library Organizer,Coordination,9/1/2020
+OPP070,3434,Gardening Journal Designer,Content Creation,11/26/2024
+OPP071,3535,Storytelling Night Host,Event Leadership,7/24/2021
+OPP072,3535,Event Set-up Crew,Environmental Work,11/7/2022
+OPP073,3535,Costume Lending Librarian,Resource Access,1/13/2025

@@ -1,0 +1,74 @@
+nonprofit_id,nonprofit_name,nonprofit_opportunity,nonprofit_available_days,nonprofit_time_of_day,nonprofit_location_type,nonprofit_zipcode
+1001,LumoNest Initiative,Community Engagement Fellow,"Tuesday, Thursday","Morning, Evening",Both,30303
+1001,LumoNest Initiative,Workshop Logistics Assistant,"Tuesday, Thursday, Saturday",Morning,In Person,75217
+2002,Virelia Foundation,Youth Program Mentor,"Monday, Wednesday",Morning,In Person,19143
+2002,Virelia Foundation,Grant Research Volunteer,Sunday,"Morning, Afternoon, Evening",Remote,
+2002,Virelia Foundation,Events Assistant,"Friday, Saturday, Sunday","Morning, Afternoon, Evening",Remote,
+3003,Thryssa Commons,Urban Garden Coordinator,"Wednesday, Friday",Evening,In Person,19143
+3003,Thryssa Commons,Compost Educator,"Monday, Tuesday, Wednesday, Thursday",Afternoon,In Person,85009
+4004,Zynko Project,Art Therapy Assistant,"Tuesday, Thursday",Afternoon,In Person,77021
+4004,Zynko Project,Mobile Outreach Volunteer,"Tuesday, Thursday, Saturday",Afternoon,In Person,75217
+5005,The Quendari Trust,After-School Tutor,Thursday,Afternoon,Remote,
+5005,The Quendari Trust,Volunteer Recruitment Liaison,Saturday,Morning,Remote,
+6006,BrambleLight Collective,Media Archive Volunteer,"Tuesday, Thursday",Afternoon,Both,30303
+6006,BrambleLight Collective,Local Story Collector,Thursday,Afternoon,Remote,
+7007,Solvenya Works,Digital Literacy Coach,"Friday, Saturday, Sunday",Morning,In Person,30303
+7007,Solvenya Works,Curriculum Review Volunteer,"Monday, Tuesday, Wednesday, Thursday","Morning, Afternoon, Evening",Remote,
+8008,Nexava Rising,College Application Mentor,"Tuesday, Thursday","Morning, Afternoon, Evening",Remote,
+8008,Nexava Rising,Youth Ambassador,Saturday,Morning,Remote,
+9009,OrbiKin Alliance,Donation Intake Organizer,"Friday, Saturday, Sunday",Morning,Both,75217
+9009,OrbiKin Alliance,Care Package Assembler,"Friday, Saturday, Sunday",Morning,In Person,94110
+1010,Caldra Spark Foundation,Early Literacy Tutor,"Monday, Wednesday, Friday",Evening,Remote,
+1010,Caldra Spark Foundation,Family Engagement Volunteer,"Tuesday, Thursday, Saturday",Morning,Both,75217
+1010,Caldra Spark Foundation,Reading Circle Facilitator,"Tuesday, Thursday",Evening,In Person,
+1111,The Mirophi Center,Youth Art Mentor,"Monday, Wednesday, Friday",Evening,Both,19143
+1111,The Mirophi Center,Exhibit Setup Volunteer,"Wednesday, Friday",Evening,In Person,20011
+1212,Veltrana Roots,Herbal Garden Steward,Sunday,Morning,In Person,10027
+1212,Veltrana Roots,Workshop Note Taker,Saturday,Afternoon,Remote,
+1313,Avenya Link,Technology Lending Librarian,"Wednesday, Friday",Evening,In Person,94110
+1313,Avenya Link,Call Center Support,"Monday, Wednesday, Friday",Evening,In Person,77021
+1414,Plintari Futures,Financial Literacy Facilitator,"Friday, Saturday, Sunday",Morning,Remote,
+1414,Plintari Futures,Youth Career Panelist,Thursday,Afternoon,Remote,
+1515,Elenta Commons,Oral History Interviewer,"Monday, Wednesday",Morning,Both,10027
+1515,Elenta Commons,Podcast Editing Volunteer,"Monday, Wednesday, Friday","Morning, Afternoon, Evening",Both,10027
+1616,Zafari Kinship Network,Family Liaison,"Monday, Tuesday, Wednesday, Thursday",Afternoon,Both,20011
+1616,Zafari Kinship Network,Wellness Workshop Host,"Monday, Tuesday, Wednesday, Thursday",Evening,Remote,
+1717,Trevia Circle,Community Potluck Planner,Saturday,Evening,Both,77021
+1717,Trevia Circle,Intergenerational Program Lead,"Wednesday, Friday",Afternoon,Remote,
+1818,Kindra Thread Co-op,Textile Arts Volunteer,"Friday, Saturday, Sunday",Evening,In Person,60640
+1818,Kindra Thread Co-op,Repair CafÃ© Assistant,"Friday, Saturday, Sunday",Afternoon,In Person,60640
+1919,Ombera Voices,Writing Mentor,Sunday,"Morning, Afternoon, Evening",Both,10027
+1919,Ombera Voices,Newsletter Designer,Sunday,Afternoon,In Person,94110
+2020,Dralith Outreach Corps,Crisis Resource Assistant,Saturday,Afternoon,Remote,
+2020,Dralith Outreach Corps,Meal Distribution Coordinator,"Monday, Wednesday, Friday",Afternoon,Both,77021
+2121,Saphros Way Initiative,Eco Club Mentor,"Monday, Wednesday, Friday",Afternoon,Remote,
+2121,Saphros Way Initiative,Community Mapping Volunteer,"Monday, Wednesday",Morning,In Person,94110
+2222,Cinterra Bloom,Urban Farming Assistant,"Friday, Saturday, Sunday",Morning,Remote,
+2222,Cinterra Bloom,Harvest Day Organizer,"Tuesday, Thursday",Evening,Both,77021
+2323,MyndiFold Collective,Legal Aid Intake Volunteer,"Friday, Saturday, Sunday",Morning,Both,85009
+2323,MyndiFold Collective,Tenant Rights Educator,"Tuesday, Thursday",Afternoon,Remote,
+2424,Volari KinWorks,Conflict Mediation Helper,"Monday, Wednesday",Evening,Remote,
+2424,Volari KinWorks,Block Party Volunteer,"Tuesday, Thursday, Saturday",Evening,In Person,30303
+2525,Harela Nexus,ESL Class Assistant,"Tuesday, Thursday",Evening,Both,48219
+2525,Harela Nexus,Citizenship Test Tutor,"Monday, Tuesday, Wednesday, Thursday",Morning,In Person,48219
+2626,RindleFrame Foundation,Art Supplies Curator,"Wednesday, Friday",Evening,Both,85009
+2626,RindleFrame Foundation,Youth Art Camp Volunteer,"Friday, Saturday, Sunday",Afternoon,Both,85009
+2727,EvraNest Network,Digital Resource Curator,"Monday, Tuesday, Wednesday, Thursday",Evening,Both,75217
+2727,EvraNest Network,Seniors Tech Coach,"Monday, Wednesday",Evening,In Person,75217
+2828,The Florenth Bridge,Language Exchange Partner,"Monday, Wednesday, Friday",Morning,In Person,48219
+2828,The Florenth Bridge,Cultural Night Volunteer,"Wednesday, Friday",Afternoon,In Person,94110
+2929,Zenthira Lab,STEM Workshop Assistant,"Monday, Wednesday, Friday",Evening,In Person,19143
+2929,Zenthira Lab,Data Entry Support,Thursday,"Morning, Afternoon, Evening",Remote,
+3030,Paxtrova Peaceworks,Peer Mediation Guide,"Tuesday, Thursday",Morning,In Person,77021
+3030,Paxtrova Peaceworks,Restorative Circle Note Taker,"Tuesday, Thursday",Morning,Both,30303
+3131,Juntri Wildkeepers,Trail Clean-up Crew,Saturday,Morning,In Person,94110
+3131,Juntri Wildkeepers,Native Plant Tagger,"Monday, Tuesday, Wednesday, Thursday",Afternoon,In Person,94110
+3232,Quiverna Youth Hub,Homework Club Volunteer,"Monday, Wednesday, Friday",Evening,In Person,77021
+3232,Quiverna Youth Hub,College Essay Reviewer,"Friday, Saturday, Sunday",Morning,Both,60609
+3333,Nexari Reach,Wellness Check Caller,Thursday,"Morning, Afternoon, Evening",Remote,
+3333,Nexari Reach,Community Census Helper,Saturday,Evening,Both,10027
+3434,Blintra Seed Collective,Seed Library Organizer,Thursday,Morning,Both,30303
+3434,Blintra Seed Collective,Gardening Journal Designer,"Monday, Wednesday, Friday","Morning, Afternoon, Evening",Both,30303
+3535,The Talvyn Guild,Storytelling Night Host,"Friday, Saturday, Sunday",Evening,Remote,
+3535,The Talvyn Guild,Event Set-up Crew,Sunday,Evening,In Person,85009
+3535,The Talvyn Guild,Costume Lending Librarian,Thursday,Evening,In Person,85009
